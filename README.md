@@ -5,7 +5,7 @@ Hi! I'm Thiago Boccalon and would like to share with a little about code program
 
 # Content
 
- 1. Getting started - Introduction Algorithms
+ 1. [Getting started - Introduction Algorithms](https://github.com/ThiagoBoccalon/SaveOneCode/blob/master/01%20-%20Getting%20started%20-%20Introduction%20Algorithms/Introduction%20Algorithms.md)
  2. Variables - How do I use it?
  3. Operations - Using operations in my code
  4. Statements part I - Branching with if 
